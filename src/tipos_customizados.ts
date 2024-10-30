@@ -30,3 +30,5 @@ function exibeAluno(aluno: aluno) {
     console.log(aluno.nome);
     
 }
+
+
